@@ -1,4 +1,4 @@
-# software-platform-Assignment1
+# Enterprise software platform - Assignment1
 **Build a Docker image from source code and runs tests in a container, pushes the image to a registry.**
 
 **1. Created the dockerfile**
@@ -17,7 +17,11 @@
 <img width="1434" alt="Screen Shot 2023-09-10 at 4 50 39 AM" src="https://github.com/purvil-patel/software-platform-Assignment1/assets/67355397/f08a5e41-580b-4e3f-bafc-51eea3f40f23">
 
 **6. Blogging app working video**
-https://github.com/purvil-patel/software-platform-Assignment1/assets/67355397/3e16bb19-e0e4-47ff-b87a-97b4a3fed056
+
+
+https://github.com/purvil-patel/software-platform-Assignment1/assets/67355397/04bf1a2c-095b-4774-ad4c-60b998077d5b
+
+
 
 **7. Run test cases using the container**
 <img width="1434" alt="Screen Shot 2023-09-10 at 4 55 43 AM" src="https://github.com/purvil-patel/software-platform-Assignment1/assets/67355397/2b8fb9b5-c286-48ce-bf28-4684b73b84a1">
